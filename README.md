@@ -1,0 +1,2 @@
+# PTAtoolExpand
+这是一个Edge/Chrome浏览器插件，可以帮你一键从PTA平台导出符合ICPC滚榜工具resolver的xml格式！
