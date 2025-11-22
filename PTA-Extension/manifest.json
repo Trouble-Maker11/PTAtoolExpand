@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "PTA比赛生成器",
+  "version": "1.0.0",
+  "description": "一键从PTA生成ICPC Tools兼容的竞赛XML文件",
+  "permissions": [
+    "cookies",
+    "storage",
+    "downloads"
+  ],
+  "host_permissions": [
+    "https://pintia.cn/*",
+    "https://*.pintia.cn/*"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "32": "icon32.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "32": "icon32.png"
+  }
+}
