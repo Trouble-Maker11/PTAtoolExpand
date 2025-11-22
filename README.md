@@ -84,7 +84,7 @@
 
 **24h 内回复**
 
-[![发送邮件](https://img.shields.io/badge/-发送邮件-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:jiajiale730@qq.com)
+QQ邮箱：jiajiale730@qq.com
 
 </div>
 
